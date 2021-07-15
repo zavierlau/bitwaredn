@@ -1,0 +1,10 @@
+*.crt
+*.key
+*.srl
+*.pem
+*.csr
+/data/bitwarden/*
+/data/ssl/index*
+/data/ssl/serial*
+.gitignore
+*~*
